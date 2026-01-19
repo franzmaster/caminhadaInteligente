@@ -1,0 +1,5 @@
+{
+  "name": "Copy Caminhando com Inteligência ",
+  "description": "A fitness calculator that generates a walking plan based on your age, body metrics, and weight loss goals using AI.",
+  "requestFramePermissions": []
+}
